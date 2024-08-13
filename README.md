@@ -14,6 +14,9 @@ Master’s in Data Analytics (Applied Machine Intelligence)
 *Courses*: AI, Probability, Statistics, Analytics, Data Mining, MLOPS
 
 ### 💼 Experience
+**Northeastern University, Boston, MA**  
+*Research Assistant* (Jul 2024 - Ongoing)
+
 **WORKSTAM, Irving, TX**  
 *Data Engineer Intern* (Apr - Jun 2024)  
 
@@ -26,10 +29,5 @@ Master’s in Data Analytics (Applied Machine Intelligence)
 - **ML/AI**: Regression, Classification, Clustering, CNN, ANN, RNN, NLP, GenAI  
 - **Libraries**: Numpy, Scipy, Scikit-Learn, Pandas, Matplotlib, PyTorch, TensorFlow, Plotly, NLTK, Seaborn
  
-### 🔧 Projects
-- **Insurance Predictor**: Improved AUC by 23.5%, reduced deployment time by 37%  
-- **Customer Churn**: Built models to predict churn using various algorithms  
-- **ETL Workflow**: Developed ETL processes ensuring data integrity
-
 ### 🎉 Fun Fact
 - Mechanical Engineer turned data enthusiast, with a soccer pro past and a fitness fanatic present—getting my hands dirty with data!
