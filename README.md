@@ -27,7 +27,7 @@ Master’s in Data Analytics (Applied Machine Intelligence)
 - **Languages**: JAVA, Python, R, SQL  
 - **Tools**: MySQL, NoSQL, Tableau, Power BI, Excel, Spark, Airflow, Jira, PostgreSQL, DynamoDB, Pentaho, Kafka, AWS, Databricks, Hadoop, Kinesis, GIT  
 - **ML/AI**: Regression, Classification, Clustering, CNN, ANN, RNN, NLP, GenAI  
-- **Libraries**: Numpy, Scipy, Scikit-Learn, Pandas, Matplotlib, PyTorch, TensorFlow, Plotly, NLTK, Seaborn
+- **Libraries**: Numpy, Scipy, Scikit-Learn, Pandas, Matplotlib, PyTorch, TensorFlow, Plotly, NLTK, Seaborn, Langchain
  
 ### 🎉 Fun Fact
 - Mechanical Engineer turned data enthusiast, with a soccer pro past and a fitness fanatic present—getting my hands dirty with data!
